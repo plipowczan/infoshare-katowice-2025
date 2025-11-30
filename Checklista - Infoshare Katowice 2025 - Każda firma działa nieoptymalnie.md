@@ -26,11 +26,16 @@ Musisz wiedzieć, gdzie jesteś, aby ruszyć dalej. Nie projektuj życzeń, mapu
 
 ### Krok 3: Namierzanie Wycieków (Pain Points)
 
-Spójrz na mapę i znajdź „pękniętą rurę”.
+Spójrz na mapę i znajdź „pękniętą rurę”. Szukaj nie tylko przestojów, ale też strat finansowych i emocjonalnych.
 
-- [ ] **Oznacz "wąskie gardła":** Gdzie proces utyka w oczekiwaniu na decyzję lub dane?
-- [ ] **Zidentyfikuj "Double entry":** Gdzie te same dane są wpisywane ręcznie w dwa różne miejsca (np. Excel -> CRM)?
-- [ ] **Znajdź "Czarną dziurę":** Gdzie informacje giną lub są przekazywane ustnie/mailem bez śladu?
+- [ ] **Oznacz "wąskie gardła":** Gdzie proces utyka w oczekiwaniu na decyzję lub dane? (np. oferta czeka 2 dni na akceptację managera, który jest na spotkaniach).
+- [ ] **Zidentyfikuj "Double entry":** Gdzie te same dane są wpisywane ręcznie w dwa różne miejsca? (np. klient wpada z formularza na www, ale trzeba go ręcznie przepisać do CRM).
+- [ ] **Znajdź "Czarną dziurę":** Gdzie informacje giną lub są przekazywane "na gębę"? (np. ustalenia z rozmowy telefonicznej nie są nigdzie zapisywane i giną po tygodniu).
+- [ ] **Zlokalizuj "Palarnie pieniędzy":** Gdzie proces zużywa czas najdroższych specjalistów na trywialne zadania? (np. Senior Developer poświęca godzinę dziennie na ręczne generowanie raportów w Excelu).
+- [ ] **Wskaż "Generatory błędów":** Gdzie najczęściej dochodzi do pomyłek wymagających korekty? (np. błędy w kwotach na fakturach wynikające z ręcznego kopiowania pozycji z zamówienia).
+- [ ] **Nazwij "Złodziei energii" (Hate-tasks):** Na co zespół narzeka najbardziej i czego unika jak ognia? (np. "nienawidzę co piątek przeklejać tych zdjęć do prezentacji PowerPoint").
+- [ ] **Wykryj "Autobusowe ryzyko" (SPOF):** Czy jest krok, który potrafi wykonać tylko jedna osoba w firmie? (np. "tylko Kasia wie, jak działa to makro, jak zachoruje, to proces staje").
+- [ ] **Znajdź "Martwe procedury":** Czy wykonujecie czynności, z których wynikami nikt nic dalej nie robi? (np. generowanie raportu PDF, którego nikt nie otwiera od 2022 roku).
 
 ### Krok 4: Metoda Elona Muska (Eliminacja)
 
