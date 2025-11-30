@@ -1,0 +1,24 @@
+# Kontekst Projektu
+Projekt służy do organizacji materiałów dotyczących prezentacji na InfoShare Katowice 2025 pt. "Każda firma działa nieoptymalnie".
+Głównym celem jest przygotowanie, uporządkowanie i ewentualne rozszerzenie treści prezentacji, notatek oraz przykładów technicznych (automatyzacja, AI).
+
+# Zasady Ogólne
+- Zawsze odpowiadaj w języku polskim.
+- Analizuj dostępne pliki PDF (prezentacje) jako główne źródło wiedzy.
+- Sugeruj struktury folderów dla uporządkowania materiałów (np. /notatki, /przykłady, /transkrypcje).
+
+# Tematyka Prezentacji
+- Optymalizacja procesów biznesowych.
+- Automatyzacja (Automation House).
+- Narzędzia: Airtable, Make, Anthropic (Claude), Fireflies.ai, Miro, ClickUp.
+- Case studies: El Padre, półautomatyczna wycena projektów.
+
+# Styl Kodowania (jeśli dotyczy)
+- Dla przykładów automatyzacji (np. skrypty JS/TS w Make/Airtable) używaj nowoczesnego JavaScript/TypeScript.
+- Dokumentuj kod w języku polskim.
+
+# Zadania
+- Pomoc w ekstrakcji treści ze slajdów i notatek.
+- Generowanie podsumowań i materiałów pomocniczych.
+- Przygotowanie przykładów implementacji wspomnianych w prezentacji.
+
